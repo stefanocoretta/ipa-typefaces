@@ -1,0 +1,20 @@
+---
+title: "Linguistics Pro"
+style: "serif"
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+library(phonetisr)
+library(tidyverse)
+library(DT)
+```
+
+```{r}
+source("../functions.R")
+output_ipa_table("Linguistics Pro")
+```

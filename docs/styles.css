@@ -1,0 +1,16 @@
+/* css styles */
+
+@font-face {
+  font-family: "Linguistics Pro";
+  src: url(fonts/LinguisticsPro-Regular.otf);
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url(fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  src: url(fonts/NotoSans-Regular.ttf);
+}

@@ -1,0 +1,16 @@
+---
+title: "IPA typefaces"
+listing:
+  id: type-list
+  type: table
+  contents: typefaces
+  fields: [title, style]
+  field-display-names:
+    title: "title"
+    author: "author"
+  # sort: ["year", "title"]
+  # sort-ui: [year, title, author, languages, population]
+---
+
+::: {#type-list}
+:::
