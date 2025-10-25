@@ -9,12 +9,23 @@ execute:
 #| label: setup
 #| include: false
 
-library(phonetisr)
-library(tidyverse)
-library(DT)
+source("../functions.R")
 ```
 
+::: {.panel-tabset}
+## Chart
+
 ```{r}
-source("../functions.R")
+#| result: asis
+
+output_ipa_chart("Linguistics Pro")
+```
+
+## Table
+
+```{r}
+
 output_ipa_table("Linguistics Pro")
 ```
+
+:::

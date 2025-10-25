@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "typefaces/linguistics-pro.html",
+    "href": "typefaces/linguistics-pro.html",
+    "title": "Linguistics Pro",
+    "section": "",
+    "text": "ChartTable\n\n\n\n\n\nConsonants\n\n\n\n\nManner\nBilabial\nLabiodental\nDental\nAlveolar\nPostalveolar\nRetroflex\nPalatal\nVelar\nUvular\nPharyngeal\nGlottal\n\n\n\n\nPlosive\np b\n\n\nt d\n\nʈ ɖ\nc ɟ\nk ɡ\nq ɢ\n\nʔ\n\n\nNasal\nm\nɱ\nn̪\nn\n\nɳ\nɲ\nŋ\nɴ\n\n\n\n\nTrill\n\n\n\nr\n\nɽ\n\n\nʀ\n\n\n\n\nTap or flap\n\n\n\nɾ\n\n\n\n\n\n\n\n\n\nFricative\nɸ β\nf v\nθ ð\ns z\nʃ ʒ\nʂ ʐ\nç ʝ\nx ɣ\nχ ʁ\nħ ʕ\nh ɦ\n\n\nLateral fricative\n\n\n\n\n\n\n\n\n\n\n\n\n\nApproximant\nʋ\n\n\nɹ\n\nɻ\nj\nɰ\n\n\n\n\n\nLateral approximant\n\n\n\nl\n\nɭ\nʎ\nʟ\n\n\n\n\n\n\n\nNon-pulmonic\n\n\n\n\nType\nSymbols\n\n\n\n\nClicks\n! ǀ ǁ ǃ ǂ ʘ\n\n\nEjectives\npʼ tʼ kʼ sʼ\n\n\nImplosives\nɓ ɗ ʄ ɠ ʛ\n\n\n\n\nVowels\n\n\n\n\nHeight\nFront\nCentral\nBack\n\n\n\n\nClose\ni y\nɨ ʉ\nɯ u\n\n\nNear-close\nɪ ʏ\n\nʊ\n\n\nClose-mid\ne ø\nɘ ɵ\no ɤ\n\n\nMid\nə\n\n\n\n\nOpen-mid\nɛ œ\nɜ ɞ\nɔ\n\n\nNear-open\næ\nɐ\nʌ\n\n\nOpen\na ɶ\nä\nɑ ɒ\n\n\n\n\nDiacritics\n\n\n\n\nFunction\nDiacritic\nExample\n\n\n\n\nVoicing\n̬\ns̬\n\n\nAspirated\nʰ\npʰ\n\n\nBreathy voice\n̤\nb̤\n\n\nCreaky voice\n̰\na̰\n\n\nNasalized\ñ\nã\n\n\nVelarized or pharyngealized\nˠ\nɫ\n\n\nLabialized\nʷ\ntʷ\n\n\nPalatalized\nʲ\ntʲ\n\n\nDental\n̪\nt̪\n\n\nAdvanced\n̟\ne̟\n\n\nRetracted\n̠\ne̠\n\n\nRaised\n̝\ne̝\n\n\nLowered\n̞\ne̞\n\n\n\n\nSuprasegmentals\n\n\n\n\nFeature\nSymbol\nExample\n\n\n\n\nPrimary stress\nˈ\nˈkan\n\n\nSecondary stress\nˌ\nˌkan\n\n\nLength\nː\naː\n\n\nHalf-long\nˑ\neˑ\n\n\nExtra-short\n̆\nŏ\n\n\nMinor group (foot)\n.\npros.od.y\n\n\nMajor group (intonation phrase)\n‖\nintonation‖phrase\n\n\nLinking (tie bar)\n͜\nk͜p"
+  },
+  {
+    "objectID": "typefaces/noto-sans.html",
+    "href": "typefaces/noto-sans.html",
+    "title": "Noto Sans",
+    "section": "",
+    "text": "ChartTable\n\n\n\n\n\nConsonants\n\n\n\n\nManner\nBilabial\nLabiodental\nDental\nAlveolar\nPostalveolar\nRetroflex\nPalatal\nVelar\nUvular\nPharyngeal\nGlottal\n\n\n\n\nPlosive\np b\n\n\nt d\n\nʈ ɖ\nc ɟ\nk ɡ\nq ɢ\n\nʔ\n\n\nNasal\nm\nɱ\nn̪\nn\n\nɳ\nɲ\nŋ\nɴ\n\n\n\n\nTrill\n\n\n\nr\n\nɽ\n\n\nʀ\n\n\n\n\nTap or flap\n\n\n\nɾ\n\n\n\n\n\n\n\n\n\nFricative\nɸ β\nf v\nθ ð\ns z\nʃ ʒ\nʂ ʐ\nç ʝ\nx ɣ\nχ ʁ\nħ ʕ\nh ɦ\n\n\nLateral fricative\n\n\n\n\n\n\n\n\n\n\n\n\n\nApproximant\nʋ\n\n\nɹ\n\nɻ\nj\nɰ\n\n\n\n\n\nLateral approximant\n\n\n\nl\n\nɭ\nʎ\nʟ\n\n\n\n\n\n\n\nNon-pulmonic\n\n\n\n\nType\nSymbols\n\n\n\n\nClicks\n! ǀ ǁ ǃ ǂ ʘ\n\n\nEjectives\npʼ tʼ kʼ sʼ\n\n\nImplosives\nɓ ɗ ʄ ɠ ʛ\n\n\n\n\nVowels\n\n\n\n\nHeight\nFront\nCentral\nBack\n\n\n\n\nClose\ni y\nɨ ʉ\nɯ u\n\n\nNear-close\nɪ ʏ\n\nʊ\n\n\nClose-mid\ne ø\nɘ ɵ\no ɤ\n\n\nMid\nə\n\n\n\n\nOpen-mid\nɛ œ\nɜ ɞ\nɔ\n\n\nNear-open\næ\nɐ\nʌ\n\n\nOpen\na ɶ\nä\nɑ ɒ\n\n\n\n\nDiacritics\n\n\n\n\nFunction\nDiacritic\nExample\n\n\n\n\nVoicing\n̬\ns̬\n\n\nAspirated\nʰ\npʰ\n\n\nBreathy voice\n̤\nb̤\n\n\nCreaky voice\n̰\na̰\n\n\nNasalized\ñ\nã\n\n\nVelarized or pharyngealized\nˠ\nɫ\n\n\nLabialized\nʷ\ntʷ\n\n\nPalatalized\nʲ\ntʲ\n\n\nDental\n̪\nt̪\n\n\nAdvanced\n̟\ne̟\n\n\nRetracted\n̠\ne̠\n\n\nRaised\n̝\ne̝\n\n\nLowered\n̞\ne̞\n\n\n\n\nSuprasegmentals\n\n\n\n\nFeature\nSymbol\nExample\n\n\n\n\nPrimary stress\nˈ\nˈkan\n\n\nSecondary stress\nˌ\nˌkan\n\n\nLength\nː\naː\n\n\nHalf-long\nˑ\neˑ\n\n\nExtra-short\n̆\nŏ\n\n\nMinor group (foot)\n.\npros.od.y\n\n\nMajor group (intonation phrase)\n‖\nintonation‖phrase\n\n\nLinking (tie bar)\n͜\nk͜p"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "IPA typefaces",
@@ -12,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "typefaces/lato.html",
+    "href": "typefaces/lato.html",
+    "title": "Lato",
+    "section": "",
+    "text": "ChartTable\n\n\n\n\n\nConsonants\n\n\n\n\nManner\nBilabial\nLabiodental\nDental\nAlveolar\nPostalveolar\nRetroflex\nPalatal\nVelar\nUvular\nPharyngeal\nGlottal\n\n\n\n\nPlosive\np b\n\n\nt d\n\nʈ ɖ\nc ɟ\nk ɡ\nq ɢ\n\nʔ\n\n\nNasal\nm\nɱ\nn̪\nn\n\nɳ\nɲ\nŋ\nɴ\n\n\n\n\nTrill\n\n\n\nr\n\nɽ\n\n\nʀ\n\n\n\n\nTap or flap\n\n\n\nɾ\n\n\n\n\n\n\n\n\n\nFricative\nɸ β\nf v\nθ ð\ns z\nʃ ʒ\nʂ ʐ\nç ʝ\nx ɣ\nχ ʁ\nħ ʕ\nh ɦ\n\n\nLateral fricative\n\n\n\n\n\n\n\n\n\n\n\n\n\nApproximant\nʋ\n\n\nɹ\n\nɻ\nj\nɰ\n\n\n\n\n\nLateral approximant\n\n\n\nl\n\nɭ\nʎ\nʟ\n\n\n\n\n\n\n\nNon-pulmonic\n\n\n\n\nType\nSymbols\n\n\n\n\nClicks\n! ǀ ǁ ǃ ǂ ʘ\n\n\nEjectives\npʼ tʼ kʼ sʼ\n\n\nImplosives\nɓ ɗ ʄ ɠ ʛ\n\n\n\n\nVowels\n\n\n\n\nHeight\nFront\nCentral\nBack\n\n\n\n\nClose\ni y\nɨ ʉ\nɯ u\n\n\nNear-close\nɪ ʏ\n\nʊ\n\n\nClose-mid\ne ø\nɘ ɵ\no ɤ\n\n\nMid\nə\n\n\n\n\nOpen-mid\nɛ œ\nɜ ɞ\nɔ\n\n\nNear-open\næ\nɐ\nʌ\n\n\nOpen\na ɶ\nä\nɑ ɒ\n\n\n\n\nDiacritics\n\n\n\n\nFunction\nDiacritic\nExample\n\n\n\n\nVoicing\n̬\ns̬\n\n\nAspirated\nʰ\npʰ\n\n\nBreathy voice\n̤\nb̤\n\n\nCreaky voice\n̰\na̰\n\n\nNasalized\ñ\nã\n\n\nVelarized or pharyngealized\nˠ\nɫ\n\n\nLabialized\nʷ\ntʷ\n\n\nPalatalized\nʲ\ntʲ\n\n\nDental\n̪\nt̪\n\n\nAdvanced\n̟\ne̟\n\n\nRetracted\n̠\ne̠\n\n\nRaised\n̝\ne̝\n\n\nLowered\n̞\ne̞\n\n\n\n\nSuprasegmentals\n\n\n\n\nFeature\nSymbol\nExample\n\n\n\n\nPrimary stress\nˈ\nˈkan\n\n\nSecondary stress\nˌ\nˌkan\n\n\nLength\nː\naː\n\n\nHalf-long\nˑ\neˑ\n\n\nExtra-short\n̆\nŏ\n\n\nMinor group (foot)\n.\npros.od.y\n\n\nMajor group (intonation phrase)\n‖\nintonation‖phrase\n\n\nLinking (tie bar)\n͜\nk͜p"
   }
 ]
