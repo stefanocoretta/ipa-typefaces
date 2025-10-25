@@ -74,9 +74,9 @@ ipa_diacritics <- data.frame(
 ### 5. Suprasegmentals
 ipa_suprasegmentals <- data.frame(
   Feature = c("Primary stress","Secondary stress","Length","Half-long","Extra-short",
-              "Minor group (foot)","Major group (intonation phrase)","Linking (tie bar)"),
-  Symbol  = c("ˈ","ˌ","ː","ˑ","̆",".","‖","͜"),
-  Example = c("ˈkan","ˌkan","aː","eˑ","ŏ","pros.od.y","intonation‖phrase","k͜p"),
+              "Minor group (foot)","Major group (intonation phrase)", "Syllable break", "Linking (absence of a break)"),
+  Symbol  = c("ˈ","ˌ","ː","ˑ","\u0306", "\u007c","‖","\u002e","\u203f"),
+  Example = c("","","eː","eˑ","e","","","",""),
   stringsAsFactors = FALSE
 )
 
