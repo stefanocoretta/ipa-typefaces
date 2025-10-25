@@ -16,6 +16,18 @@ source("../functions.R")
 ::: {.panel-tabset}
 ## Chart
 
+::: {style="font-family: 'Lato';"}
+|   | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal |
+|------|------|------|------|------|------|------|------|------|------|------|------|
+| Plosive | p b |  |  | t d |  | ʈ ɖ | c ɟ | k ɡ | q ɢ |  | ʔ |
+| Nasal | m | ɱ |  | n |  | ɳ | ɲ | ŋ | ɴ |  |  |
+| Trill | ʙ |  |  | r |  |  |  |  | ʀ |  |  |
+| Tap or Flap |  | ⱱ |  | ɾ |  | ɽ |  |  |  |  |  |
+| Fricative | ɸ β | f v | θ ð | s z | ʃ ʒ | ʂ ʐ | ç ʝ | x ɣ | χ ʁ | ħ ʕ | h ɦ |
+| Lateral fricative |  |  |  | ɬ ɮ |  |  |  |  |  |  |  |
+| Approximant |  | ʋ |  | ɹ |  | ɻ | j | ɰ |  |  |  |
+| Lateral approximant |  |  |  | l |  | ɭ | ʎ | ʟ |  |  |  |
+:::
 
 ## Table
 

@@ -20,7 +20,7 @@ format:
     css: styles.css
     toc: true
     page-layout: full
-    self-contained: true
+    embed-resources: true
 
 freeze: auto
 
