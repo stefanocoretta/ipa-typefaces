@@ -15,11 +15,6 @@ source("../functions.R")
 ::: {.panel-tabset}
 ## Chart
 
-```{r}
-#| result: asis
-
-output_ipa_chart("Linguistics Pro")
-```
 
 ## Table
 
